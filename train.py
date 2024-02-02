@@ -1,3 +1,5 @@
+# This contains the core code for understanding the logic and implementing PhyDL-NWP. 
+
 import os
 
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
