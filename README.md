@@ -34,4 +34,4 @@ The output consists of 8 meteorological variables (same as the 8 weather-related
 ![image](https://github.com/yingtaoluo/PhyDL-NWP/blob/main/KDD2025_Poster.png)
 
 ## Paper Cover
-![image](https://github.com/yingtaoluo/PhyDL-NWP/blob/main/KDD2025_Cover.png)
+![image](https://github.com/yingtaoluo/PhyDL-NWP/blob/main/KDD2025_Cover.jpg)
