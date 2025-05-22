@@ -30,6 +30,8 @@ The input consists of 11 features, including:
 
 The output consists of 8 meteorological variables (same as the 8 weather-related input features above).
 
-
 ## Poster Presentation
 ![image](https://github.com/yingtaoluo/PhyDL-NWP/blob/main/KDD2025_Poster.png)
+
+## Paper Cover
+![image](https://github.com/yingtaoluo/PhyDL-NWP/blob/main/KDD2025_Cover.png)
