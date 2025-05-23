@@ -1,4 +1,13 @@
-# This contains the core code for understanding the logic and implementing PhyDL-NWP. 
+# This code is for experimental purposes only. It aims to assess whether the explicit PDE terms used are consistent with patterns observed in the data.
+
+
+
+
+
+
+
+
+
 
 import os
 
