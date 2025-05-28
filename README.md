@@ -1,4 +1,4 @@
-The core code for understanding the logic and implementing PhyDL-NWP. Some additional code is pending review before releasing.
+The core code for understanding the logic and implementing PhyDL-NWP. 
 
 ## Get Started
 
