@@ -1,7 +1,18 @@
 The core code for understanding the logic and implementing PhyDL-NWP. 
 
 ## Get Started
+#### 1. Install dependencies
+```
 pip install -r requirements.txt
+```
+#### 2. Run code to obtain the governing equation with latent force
+```
+python main.py
+```
+#### 3. Run code to use the learned physics to inform forecasting models
+```
+python main.py
+```
 
 ## Dataset Description
 
