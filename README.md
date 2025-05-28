@@ -1,5 +1,8 @@
 The core code for understanding the logic and implementing PhyDL-NWP. Some additional code is pending review before releasing.
 
+## Get Started
+
+
 ## Dataset Description
 
 In this repository, we release the [Ningxia dataset](https://drive.google.com/drive/folders/1JcFkmSsqMVDcdWwcCAyhL7m-WjI3BJHg?usp=sharing) as a regional data example to run the code (For other datasets that may require access permission, please refer to the footnote links in our paper). It contains two files:
