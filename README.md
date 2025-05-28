@@ -1,7 +1,7 @@
 The core code for understanding the logic and implementing PhyDL-NWP. 
 
 ## Get Started
-
+pip install -r requirements.txt
 
 ## Dataset Description
 
