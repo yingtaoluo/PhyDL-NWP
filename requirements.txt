@@ -1,7 +1,5 @@
-#
-# please keep these sorted!!
-#
-python==3.9
-# pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
-torch==2.0.1
-torchaudio==2.0.2
+python==3.10.14
+torch==2.3.1
+matplotlib==3.9.1
+numpy==1.23.5
+pyDOE==0.3.8
