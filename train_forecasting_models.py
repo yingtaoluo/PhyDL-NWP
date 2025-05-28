@@ -6,8 +6,6 @@ import numpy as np
 import torch.nn as nn
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
-import scipy.io
-from scipy.spatial import distance
 import time
 import torch.utils.data
 from pyDOE import lhs
