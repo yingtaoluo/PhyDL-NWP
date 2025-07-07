@@ -11,7 +11,7 @@ python main.py
 ```
 #### 3. Run code to use the learned physics to inform forecasting models
 ```
-python main.py
+python train_forecasting_model.py
 ```
 
 ## Dataset Description
