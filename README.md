@@ -1,4 +1,4 @@
-The core code for understanding the logic and implementing PhyDL-NWP. 
+The core code for understanding the logic and implementing PhyDL-NWP (https://arxiv.org/pdf/2505.14555). 
 
 ## Get Started
 #### 1. Install dependencies
